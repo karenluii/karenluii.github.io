@@ -1,7 +1,2 @@
 # karenluii.github.io
 
-title: Deepa's Website	
-description: Personal website
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-architect
