@@ -1,3 +1,5 @@
-title: Kares's Website
-description: Personal Website
-show_downloads: False
+title: Karen's Website	
+description: Personal website
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
